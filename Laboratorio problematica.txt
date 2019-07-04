@@ -1,0 +1,26 @@
+Problemas 
+
+-Donde quedan los materiales despues de prestarlos.
+- Materiales rotos
+-El laboratorio no tiene nadie a la noche que controle el stock
+-Se mezclan los insumos de lugar cuando se retiran del laboratorio (los dos laboratorio tienen diferentes insumos)
+-Muchos insumos  vencidos
+-No se sabe todo el stock de laboratorio nuevo
+-Hablar con la directora por la contabilidad y resguardo del stock (no libre acceso)
+
+
+Tipo de programa
+-Poder controlar el stock en cada lugar del laboratorio tanto materiales como insumos
+-Hacer una lista de insumos que hay que comprar
+-Descuento automatico 
+-Alerta cuando hay una cantidad minima de un insumo
+-Movimiento de los materiales
+-Manejar cantidad y lugar donde estan 
+
+Tablas
+-Alta de insumo (Localizacion,donde estan los insumos, en que laboratorio estan)
+-Alta de materiales(localizacion, donde estan los materiales,en que laboratorio estan)
+-Baja de materiales
+-Baja de insumos
+-Prestamos (Solo prestamos a profesores, tanto reactivos como materiales, solo a los de 7 quimica,destinatario,localizacion)
+	
