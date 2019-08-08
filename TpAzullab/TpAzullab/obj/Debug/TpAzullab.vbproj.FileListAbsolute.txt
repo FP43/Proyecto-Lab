@@ -1,0 +1,12 @@
+C:\Users\sa000444\source\repos\TpAzullab\TpAzullab\bin\Debug\TpAzullab.exe.config
+C:\Users\sa000444\source\repos\TpAzullab\TpAzullab\bin\Debug\TpAzullab.exe
+C:\Users\sa000444\source\repos\TpAzullab\TpAzullab\bin\Debug\TpAzullab.pdb
+C:\Users\sa000444\source\repos\TpAzullab\TpAzullab\bin\Debug\TpAzullab.xml
+C:\Users\sa000444\source\repos\TpAzullab\TpAzullab\obj\Debug\TpAzullab.vbprojAssemblyReference.cache
+C:\Users\sa000444\source\repos\TpAzullab\TpAzullab\obj\Debug\TpAzullab.Form1.resources
+C:\Users\sa000444\source\repos\TpAzullab\TpAzullab\obj\Debug\TpAzullab.Resources.resources
+C:\Users\sa000444\source\repos\TpAzullab\TpAzullab\obj\Debug\TpAzullab.vbproj.GenerateResource.cache
+C:\Users\sa000444\source\repos\TpAzullab\TpAzullab\obj\Debug\TpAzullab.vbproj.CoreCompileInputs.cache
+C:\Users\sa000444\source\repos\TpAzullab\TpAzullab\obj\Debug\TpAzullab.exe
+C:\Users\sa000444\source\repos\TpAzullab\TpAzullab\obj\Debug\TpAzullab.xml
+C:\Users\sa000444\source\repos\TpAzullab\TpAzullab\obj\Debug\TpAzullab.pdb
